@@ -43,4 +43,3 @@ Analyze the brief security scenarios below and identify which element of the CIA
 
 ---  
 
-Trilogy Education Services © 2020. All Rights Reserved.

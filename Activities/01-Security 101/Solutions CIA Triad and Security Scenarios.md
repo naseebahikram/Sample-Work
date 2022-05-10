@@ -43,5 +43,3 @@
 
     - **Solution**: Availability
 ---  
-
-Trilogy Education Services © 2020. All Rights Reserved.
