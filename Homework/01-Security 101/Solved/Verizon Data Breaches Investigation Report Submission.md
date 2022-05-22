@@ -1,7 +1,5 @@
 ***Verizon Data Breaches Investigation Report***
 ___
-In this part, use the Verizon Data Breaches Investigation Report plus independent research to answer the below questions.
-___
 
 1. What is the difference between an incident and a breach? 
 
