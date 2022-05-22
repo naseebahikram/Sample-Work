@@ -8,6 +8,7 @@ ___
 2. What percentage of breaches were perpetrated by outside actors? What percentage were perpetrated by internal actors?
 
     ***Answer:*** Outside → Roughly 80%
+    
     ***Answer:*** Internal → Between 20%-30%
 
 3. What percentage of breaches were perpetrated by organized crime? 
