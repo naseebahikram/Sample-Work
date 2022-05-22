@@ -1,7 +1,5 @@
 ***Akamai Security Year in Review 2020***
 ___
-In this part, you should primarily use the Akamai Security Year in Review 2020 and Akamai State of the Internet/ Security along with independent research to answer the below questions
-___
 
 1. What was the most vulnerable and targeted element of the gaming industry between October 2019 to September 2020? 
 

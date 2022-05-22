@@ -1,7 +1,5 @@
 ***Crowdstrike 2021 Global Threat Report***
 ___
-For Part 1 of your homework assignment, use the Crowdstrike 2021 Global Threat Report along with independent research to answer the following questions.
-___
 
 1. What was the dominant ransomware family that impacted the healthcare industry in 2020?
 

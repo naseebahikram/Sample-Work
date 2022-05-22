@@ -1,7 +1,5 @@
 ***Verizon Data Breaches Investigation Report***
 ___
-In this part, use the Verizon Data Breaches Investigation Report plus independent research to answer the below questions.
-___
 
 1. What is the difference between an incident and a breach? 
 
@@ -10,7 +8,7 @@ ___
 2. What percentage of breaches were perpetrated by outside actors? What percentage were perpetrated by internal actors?
 
     ***Answer:*** Outside → Roughly 80%
-
+    
     ***Answer:*** Internal → Between 20%-30%
 
 3. What percentage of breaches were perpetrated by organized crime? 
