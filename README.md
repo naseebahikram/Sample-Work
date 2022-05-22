@@ -12,8 +12,6 @@ Unsolved Homework Files:
   - [Crowd Strike](https://github.com/naseebahikram/Sample-Work/blob/main/Homework/01-Security%20101/Unsolved/Crowd%20Strike%20Questions.md)
   - [Akamai](https://github.com/naseebahikram/Sample-Work/blob/main/Homework/01-Security%20101/Unsolved/Akamai%20Security%20Questions.md)
   
-----
-
 Solved Homework Files:
 
   - [Verizon](https://github.com/naseebahikram/Sample-Work/blob/main/Homework/01-Security%20101/Solved/Verizon%20Data%20Breaches%20Investigation%20Report%20Submission.md)
