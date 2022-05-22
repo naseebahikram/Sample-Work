@@ -12,7 +12,9 @@ Resources for Homework:
 
 Submission File:
 
-  - []()
+  - [Verizon](https://github.com/naseebahikram/Sample-Work/blob/main/Homework/01-Security%20101/Verizon%20Data%20Breaches%20Investigation%20Report%20Submission.md)
+  - [Crowd Strike](https://github.com/naseebahikram/Sample-Work/blob/main/Homework/01-Security%20101/Crowdstrike%202021%20Global%20Threat%20Report%20Submission.md)
+  - [Akamai](https://github.com/naseebahikram/Sample-Work/blob/main/Homework/01-Security%20101/Akamai%20Security%20Year%20in%20Review%202020%20Submission.md)
 
 Activities:
 
