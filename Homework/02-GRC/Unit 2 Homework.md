@@ -1,7 +1,5 @@
-***Week 2 Homework: Assessing Security Culture***
-___
+# Week 2 Homework: Assessing Security Culture
 
-___
 Scenario
 
 - Employees at SilverCorp are increasingly using their own personal devices for company work.
