@@ -1,6 +1,6 @@
-# Week 1
+# Week 1: Security 101
 
-Resources for Homework:
+Resources Resources for Homework:
 
   - [Verizon Data Breach Report](https://github.com/naseebahikram/Sample-Work/blob/main/Homework/01-Security%20101/Resources/Verizon_DataBreachReport.pdf)
   - [Crowd Strike Report 2020](https://github.com/naseebahikram/Sample-Work/blob/main/Homework/01-Security%20101/Resources/CrowdstrikeReport2021GTR.pdf)
@@ -20,23 +20,32 @@ Solved Homework Files:
 
 Activities:
 
-  - []()
+  - [CIA Triad and Security Scenarios](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/01-Security%20101/CIA%20Triad%20and%20Security%20Scenarios.md)
 
 
 
-# Week 2
+# Week 2: Government, Risk, and Compliance (GRC)
 
 Homework File:
 
-  - 
+  - [Assessing Security Culture](https://github.com/naseebahikram/Sample-Work/blob/main/Homework/02-GRC/Unsolved/Unit%202%20Homework%20Unsolved.md)
 
 Submission File:
 
-  - 
+  - [Assessing Security Culture](https://github.com/naseebahikram/Sample-Work/blob/main/Homework/02-GRC/Solved/Unit%202%20Homework.md)
 
 Activities:
 
-# Week 3
+  - [Weighing Security]()
+  - [Security Culture]()
+  - [Security Controls]()
+  - [Threat Modeling]()
+  - [Risk Analysis]()
+  - [Mitigating Risk]()
+  - [Documenting Company Policies]()
+  - [Audit Procedures]()
+
+# Week 3: Terminal and Bash
 
 Homework File:
 
@@ -49,6 +58,18 @@ Submission File:
 Activities:
 
 # Week 4
+
+Homework File:
+
+  - 
+
+Submission File:
+
+  - 
+
+Activities:
+
+# Week 5
 
 Homework File:
 
