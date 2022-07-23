@@ -39,7 +39,7 @@ Activities:
   - [Threat Modeling](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/02-GRC/Threat%20Modeling%20Steps%201%20-%204.md)
   - [Mitigating Risk](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/02-GRC/Threat%20Modeling%20Mitigating%20Risk.md)
   - [Documenting Company Policies](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/02-GRC/Documenting%20Company%20Policies.md)
-  - [Audit Procedures]()
+  - [Audit Procedures](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/02-GRC/Audit%20Procedures.md)
 # Week 3: Terminal and Bash
 
 Homework File:
