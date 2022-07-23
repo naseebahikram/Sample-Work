@@ -52,6 +52,20 @@ Submission File:
 
 Activities:
 
+  - [Take Five]()
+  - [Milkway]()
+  - [Oh Henry]()
+  - [Kitcat]()
+  - [Warmup]()
+  - [Learning New Commands]()
+  - [Finding Your Way]()
+  - [Grep]()
+  - [Gathering Evidence]()
+  - [Warmup]()
+  - [Sed]()
+  - [Awk]()
+  - [Shell Scripting]()
+  - [IP Lookup]()
 # Week 4
 
 Homework File:
