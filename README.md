@@ -21,9 +21,6 @@ Solved Homework Files:
 Activities:
 
   - [CIA Triad and Security Scenarios](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/01-Security%20101/CIA%20Triad%20and%20Security%20Scenarios.md)
-
-
-
 # Week 2: Government, Risk, and Compliance (GRC)
 
 Homework File:
@@ -39,12 +36,10 @@ Activities:
   - [Considering Security and Business Objectives](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/02-GRC/Considering%20Security%20and%20Business%20Objectives.md)
   - [Security Culture Framework](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/02-GRC/Security%20Culture%20Framework.md)
   - [Implemeting Security Controls](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/02-GRC/Implementing%20Security%20Controls.md)
-  - [Threat Modeling]()
-  - [Risk Analysis]()
+  - [Threat Modeling](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/02-GRC/Threat%20Modeling%20Steps%201%20-%204.md)
   - [Mitigating Risk]()
   - [Documenting Company Policies]()
   - [Audit Procedures]()
-
 # Week 3: Terminal and Bash
 
 Homework File:
