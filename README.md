@@ -36,9 +36,9 @@ Submission File:
 
 Activities:
 
-  - [Weighing Security]()
-  - [Security Culture]()
-  - [Security Controls]()
+  - [Considering Security and Business Objectives](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/02-GRC/Considering%20Security%20and%20Business%20Objectives.md)
+  - [Security Culture Framework](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/02-GRC/Security%20Culture%20Framework.md)
+  - [Implemeting Security Controls](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/02-GRC/Implementing%20Security%20Controls.md)
   - [Threat Modeling]()
   - [Risk Analysis]()
   - [Mitigating Risk]()
