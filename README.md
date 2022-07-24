@@ -52,20 +52,20 @@ Submission File:
 
 Activities:
 
-  - [Take Five]()
-  - [Milkway]()
-  - [Oh Henry]()
-  - [Kitcat]()
-  - [Warmup]()
-  - [Learning New Commands]()
-  - [Finding Your Way]()
-  - [Grep]()
-  - [Gathering Evidence]()
-  - [Warmup]()
-  - [Sed]()
-  - [Awk]()
-  - [Shell Scripting]()
-  - [IP Lookup]()
+  - [Take Five](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/Take%20Five%20and%20Practice%20the%20Command%20Line.md)
+  - [Milkway](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/Finding%20your%20Milky%20Way.md)
+  - [Oh Henry](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/Oh%20Henry%2C%20What%20Did%20You%20Do%3F.md)
+  - [Kitcat](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/Internal%20Investigation:%20Finding%20the%20Kitcat.md)
+  - [Warmup](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/Warm-Up-1.md)
+  - [Learning New Commands](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/Learning%20New%20Commands.md)
+  - [Finding Your Way](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/Finding%20Your%20Way.md)
+  - [Grep](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/grep.md)
+  - [Gathering Evidence](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/Gathering%20Evidence.md)
+  - [Warmup](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/Warm-Up-2.md)
+  - [Sed](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/Using%20sed.md)
+  - [Awk](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/Using%20awk.md)
+  - [Shell Scripting](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/My%20First%20Shell%20Script.md)
+  - [IP Lookup](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/Building%20an%20IP%20Lookup%20Tool.md)
 # Week 4
 
 Homework File:
