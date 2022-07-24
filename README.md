@@ -82,12 +82,12 @@ Activities:
   - [Linux Landmarks]()
   - [Process Investigation]()
   - [Installing Packages]()
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
+  - [Talking to John]()
+  - [Sudo Wrestling]()
+  - [Users and Groups]()
+  - [Permissions]()
+  - [Managing Services]()
+  - [Service Users]()
 # Week 5
 
 Homework File:
