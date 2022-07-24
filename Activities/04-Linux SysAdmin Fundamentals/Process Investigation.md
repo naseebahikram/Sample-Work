@@ -38,7 +38,7 @@ Please read the following instructions and complete the steps.
    - Which process uses the most memory?
         - `gnome-shell`
 
-![2](images/2.png)
+![2](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Images:Resources/2.png)
 
 3. Search all running processes for a specific user.
 
@@ -47,7 +47,7 @@ Please read the following instructions and complete the steps.
     - Sort by other users on the system that may be of interest.
         - `stress-ng` processes
 
-![3](images/3.png)
+![3](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Images:Resources/3.png)
 
 **Bonus**     
 
@@ -58,7 +58,7 @@ Please read the following instructions and complete the steps.
     - In the short list of output, do you notice any processes that seem suspicious?
         - `stress0ng --matrix 0 --times`. These commands intentionally stress the system and consume resources which could result in a Denial of Service from the server.
 
-![4](images/4.png)
+![4](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Images:Resources/4.png)
 
 5. Identify the ID of any suspicious process. Stop that process with the `kill` command.
     - Run `kill <PID number>` or `kill 4714 4715`.
