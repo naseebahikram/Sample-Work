@@ -78,6 +78,16 @@ Submission File:
 
 Activities:
 
+  - [Distro Research]()
+  - [Linux Landmarks]()
+  - [Process Investigation]()
+  - [Installing Packages]()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
 # Week 5
 
 Homework File:
