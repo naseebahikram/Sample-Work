@@ -99,3 +99,14 @@ Submission File:
   - 
 
 Activities:
+
+  - [Creating and Restoring Backups](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/05-Archiving%20and%20Logging%20Data/Creating%20and%20Restoring%20Backups%20with%20%60.md)
+  - [Incremental Restore]()
+  - [Exploiting with Tar]()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
