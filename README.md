@@ -78,16 +78,16 @@ Submission File:
 
 Activities:
 
-  - [Distro Research]()
-  - [Linux Landmarks]()
-  - [Process Investigation]()
-  - [Installing Packages]()
-  - [Talking to John]()
-  - [Sudo Wrestling]()
-  - [Users and Groups]()
-  - [Permissions]()
-  - [Managing Services]()
-  - [Service Users]()
+  - [Distro Research](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Distribution%20Research.md)
+  - [Linux Landmarks](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Linux%20Landmarks.md)
+  - [Process Investigation](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Process%20Investigation.md)
+  - [Installing Packages](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Installing%20Packages.md)
+  - [Talking to John](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Let's%20Talk%20to%20John.md)
+  - [Sudo Wrestling](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Sudo%20Wrestling.md)
+  - [Users and Groups](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Users%20and%20Groups.md)
+  - [Permissions](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Permissions.md)
+  - [Managing Services](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Managing%20Services.md)
+  - [Service Users](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Service%20Users.md)
 # Week 5
 
 Homework File:
