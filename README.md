@@ -66,7 +66,7 @@ Activities:
   - [Awk](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/Using%20awk.md)
   - [Shell Scripting](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/My%20First%20Shell%20Script.md)
   - [IP Lookup](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/03-Terminal%20and%20Bash/Building%20an%20IP%20Lookup%20Tool.md)
-# Week 4
+# Week 4: Linux SysAdmin Fundamentals 
 
 Homework File:
 
@@ -88,7 +88,7 @@ Activities:
   - [Permissions](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Permissions.md)
   - [Managing Services](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Managing%20Services.md)
   - [Service Users](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/04-Linux%20SysAdmin%20Fundamentals/Service%20Users.md)
-# Week 5
+# Week 5: Archiving and Logging Data
 
 Homework File:
 
@@ -101,12 +101,35 @@ Submission File:
 Activities:
 
   - [Creating and Restoring Backups](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/05-Archiving%20and%20Logging%20Data/Creating%20and%20Restoring%20Backups%20with%20%60.md)
-  - [Incremental Restore]()
-  - [Exploiting with Tar]()
-  - [Simple Cron Jobs]()
-  - [Introduction to Scripts]()
-  - [Scheduling Backups and Cleanups]()
-  - [Reviewing Crons]()
-  - [Log Filtering]()
-  - [Log Size Management]()
-  - [Event Monitor Logging]()
+  - [Incremental Restore](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/05-Archiving%20and%20Logging%20Data/Restoring%20Data%20with%20Incremental%20Backu.md)
+  - [Exploiting with Tar](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/05-Archiving%20and%20Logging%20Data/Exploiting%20%60tar%60.md)
+  - [Simple Cron Jobs](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/05-Archiving%20and%20Logging%20Data/Simple%20Cron%20Jobs.md)
+  - [Introduction to Scripts](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/05-Archiving%20and%20Logging%20Data/Introduction%20to%20Scripting.md)
+  - [Scheduling Backups and Cleanups](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/05-Archiving%20and%20Logging%20Data/Scheduling%20Backups%20and%20Cleanups.md)
+  - [Reviewing Crons](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/05-Archiving%20and%20Logging%20Data/Reviewing%20Crons.md)
+  - [Log Filtering](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/05-Archiving%20and%20Logging%20Data/Log%20Filtering.md)
+  - [Log Size Management](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/05-Archiving%20and%20Logging%20Data/Log%20Size%20Management.md)
+  - [Event Monitor Logging](https://github.com/naseebahikram/Sample-Work/blob/main/Activities/05-Archiving%20and%20Logging%20Data/Log%20Auditing.md)
+
+  # Week 6: Bash Scripting and Programming
+
+Homework File:
+
+  - 
+
+Submission File:
+
+  - 
+
+Activities:
+
+  - [Conmpound Commands]()
+  - [Creating Aliases]()
+  - [First Bash Script]()
+  - [Custom Commands]()
+  - [Var and If]()X
+  - [Lists and Loops]()
+  - [Usefil Loops]()
+  - []()
+  - []()
+  - []()
