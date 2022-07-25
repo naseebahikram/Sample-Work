@@ -205,7 +205,3 @@ To move over the win/loss files, run:
 
       - This will show: `02:00:00 PM Cleveland Hanna`
 
----
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
-

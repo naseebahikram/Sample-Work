@@ -173,6 +173,3 @@ Complete the following tasks:
 
 - Compress the `Player_Dealer_Correlation` folder to a zip file and submit it.
 
----
-
-© 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
